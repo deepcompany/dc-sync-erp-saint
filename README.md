@@ -1,2 +1,2 @@
 # dc-sync-erp-Saint
-ERP conector with Saint
+ERP connector with Saint
